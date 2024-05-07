@@ -12,8 +12,6 @@ I covered the entire analysis with the help of R programming language and certai
 
 ![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/49dccd3e-788c-471d-9a99-0197171b20fc)
 
-![Screenshot 2024-05-07 091522](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/ad359d4c-d9d0-4ba9-bb30-47149c4b1337)
-
 
 The basic conclusions I came to was:
 

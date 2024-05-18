@@ -1,5 +1,4 @@
-# Data_Analytics
-The materials of the Coursera "Google Data Analytics" Course by Google.
+# Case_Study_1
 
 This is a basic case study I covered as a part of the Google Data Analytics Course I pursued for the professional certification. 
 On studying the various datasets of cyclists in a company with and without membership, I came to certain conclusions for the asks made by the company.

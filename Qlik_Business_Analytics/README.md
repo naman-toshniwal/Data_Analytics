@@ -29,7 +29,11 @@ Given this, we can perform a variety of analyses. Here are some key areas we'll 
 
 Demographic Analysis:
 
-
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/a16895b6-6508-4b5b-b2d6-7c5b8406b0b3)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/7d6d849c-201c-4c8a-a581-65140bb3fc6c)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/993c8f1c-ef2b-4235-aa3e-1cb4ae57473b)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/2c2ba44b-3e2c-4046-9649-d02c7407fa2f)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/061d57a5-5fec-42f5-8ed5-4f4914cc2414)
 
 Here are the insights from the demographic analysis:
 1. Gender Distribution: There is a roughly equal distribution of male and female passengers.

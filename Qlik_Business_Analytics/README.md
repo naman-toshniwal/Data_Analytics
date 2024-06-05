@@ -27,6 +27,7 @@ Given this, we can perform a variety of analyses. Here are some key areas we'll 
 4. Time-based Analysis: Patterns in flight departure dates.
 
 
+
 Demographic Analysis:
 
 ![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/a16895b6-6508-4b5b-b2d6-7c5b8406b0b3)
@@ -41,6 +42,7 @@ Here are the insights from the demographic analysis:
 3. Top 10 Nationalities: The top nationalities of passengers include China, United States, and several European countries such as Russia, France, and Germany.
 
 
+
 Flight Analysis:
 
 ![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/71a3c7d6-27ce-42bb-9d09-882da942ddae)
@@ -53,6 +55,7 @@ Here are the insights from the flight analysis:
 2. Top 10 Airports with Most Delays: Certain airports have a higher number of delayed flights. The specific airports with the most delays can be seen in the visualization.
 3. Top 10 Pilots with Most Flights: The visualization shows the top 10 pilots who have flown the most flights.
 4. On-time Performance of Top 10 Pilots: The stacked bar chart shows the on-time and delayed flight counts for the top 10 pilots, highlighting their performance.
+
 
 
 Geographic Analysis:
@@ -70,6 +73,7 @@ Here are the insights from Geographic Analysis:
     a. The United States and China are the top two countries with the most flights.
     b. Other countries in the top 10 include Canada, Russia, Japan, France, Germany, United Kingdom, India, and Brazil.
     c. These countries represent major hubs for international and domestic flights.
+
 
 
 Time-based Analysis:

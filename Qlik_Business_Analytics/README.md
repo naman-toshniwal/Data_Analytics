@@ -43,6 +43,11 @@ Here are the insights from the demographic analysis:
 
 Flight Analysis:
 
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/71a3c7d6-27ce-42bb-9d09-882da942ddae)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/783716b9-2ec9-464f-bb84-6fddcb6f96da)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/70160d37-7b9b-41b1-a9ad-f49d0de1ed38)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/48b957a8-b74d-4fef-bcc7-9f085355ff09)
+
 Here are the insights from the flight analysis:
 1. Flight Status Distribution: The majority of flights are on time, with a smaller proportion being delayed.
 2. Top 10 Airports with Most Delays: Certain airports have a higher number of delayed flights. The specific airports with the most delays can be seen in the visualization.
@@ -51,6 +56,9 @@ Here are the insights from the flight analysis:
 
 
 Geographic Analysis:
+
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/37146f62-ea42-4605-b29b-00c44b8af602)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/64bb337a-ce25-4ce6-84c9-a3a677bc6858)
 
 Here are the insights from Geographic Analysis:
 
@@ -65,6 +73,10 @@ Here are the insights from Geographic Analysis:
 
 
 Time-based Analysis:
+
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/c697c91b-c0dc-4564-98eb-6e557be4b9fc)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/e9882d24-b58b-4c18-9f02-99097f1a2632)
+![image](https://github.com/naman-toshniwal/Data_Analytics/assets/109726889/0962bd64-e9ef-41fe-9b6c-1ec552db589a)
 
 Here are the insights from Time-based Analysis:
 

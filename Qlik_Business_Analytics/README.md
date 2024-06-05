@@ -28,11 +28,8 @@ Given this, we can perform a variety of analyses. Here are some key areas we'll 
 
 
 Demographic Analysis:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+
+
 
 Here are the insights from the demographic analysis:
 1. Gender Distribution: There is a roughly equal distribution of male and female passengers.

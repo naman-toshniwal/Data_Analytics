@@ -66,10 +66,10 @@ Geographic Analysis:
 Here are the insights from Geographic Analysis:
 
 1. Distribution of Flights by Continent
-    a. North America has the highest number of flights, followed by Europe and Asia.
-    b. South America, Africa, and Oceania have significantly fewer flights in comparison.
+       North America has the highest number of flights, followed by Europe and Asia.
+       South America, Africa, and Oceania have significantly fewer flights in comparison.
 
-2. Distribution of Flights by Country (Top 10)
+3. Distribution of Flights by Country (Top 10)
     a. The United States and China are the top two countries with the most flights.
     b. Other countries in the top 10 include Canada, Russia, Japan, France, Germany, United Kingdom, India, and Brazil.
     c. These countries represent major hubs for international and domestic flights.

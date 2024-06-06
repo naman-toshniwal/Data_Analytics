@@ -66,7 +66,7 @@ Geographic Analysis:
 Here are the insights from Geographic Analysis:
 
 1. Distribution of Flights by Continent
-
+   
        a. North America has the highest number of flights, followed by Europe and Asia.
        b. South America, Africa, and Oceania have significantly fewer flights in comparison.
 
@@ -87,14 +87,17 @@ Time-based Analysis:
 Here are the insights from Time-based Analysis:
 
 1. Number of Flights Over Time
-    a. The number of flights shows variability over time, with peaks and troughs indicating periods of high and low travel activity.
-    b. There may be seasonal trends, such as higher travel during summer and holiday periods.
+   
+       a. The number of flights shows variability over time, with peaks and troughs indicating periods of high and low travel activity.
+       b. There may be seasonal trends, such as higher travel during summer and holiday periods.
 
 2. Top 5 Months where Passengers Traveled the Most
-    a. The top 5 months with the highest number of passengers indicate peak travel periods.
-    b. These months likely coincide with major holidays, summer vacation periods, and other significant travel times.
+   
+       a. The top 5 months with the highest number of passengers indicate peak travel periods.
+       b. These months likely coincide with major holidays, summer vacation periods, and other significant travel times.
 
 3. Top 3 Months - Flight Status Wise (Delayed/Cancelled/On-Time)
-    a. During the top 3 months, a majority of flights were on time.
-    b. However, there is a notable number of delayed and cancelled flights, which could be due to weather conditions, high travel demand, or operational issues.
-    c. The specific months with the most flights and their respective flight status distributions provide insights into periods of operational challenges or high travel demand.
+
+       a. During the top 3 months, a majority of flights were on time.
+       b. However, there is a notable number of delayed and cancelled flights, which could be due to weather conditions, high travel demand, or operational issues.
+       c. The specific months with the most flights and their respective flight status distributions provide insights into periods of operational challenges or high travel demand.
